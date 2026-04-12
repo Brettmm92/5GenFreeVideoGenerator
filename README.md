@@ -1,4 +1,4 @@
-# Patch Notes: Sovereign Manifold v1.0.67
+# Patch Notes: v1.0.67
 
 Implemented critical stability fixes for the Rick-Diffusion pipeline.
 
